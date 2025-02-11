@@ -1,12 +1,3 @@
-# Spatial Audio with LiveKit
-
-[![Sample Gif](https://user-images.githubusercontent.com/8453967/221318613-861215da-1d71-492e-979f-dc7f18cb5c7f.gif)](https://spatial-audio-demo.livekit.io/)
-
-This is a demo of spatial audio using LiveKit. Users join a little 2D world, and hear other users' audio in stereo, based on their position and distance relative to you.
-
-## Online demo
-
-You can try an online demo right now at <https://spatial-audio-demo.livekit.io/>.
 
 ## Running locally
 
